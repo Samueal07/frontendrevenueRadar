@@ -32,5 +32,5 @@ To get started with Revenue Radar, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/revenue-radar.git
+   git clone https://github.com/Samueal07/frontendrevenueRadar.git
 
